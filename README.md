@@ -15,26 +15,9 @@ Building scalable systems, breaking things, fixing them better 🚀
 
 - ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ansh8219&show_icons=true&theme=radical)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
-
-## 🚀 Featured Projects
-
-### 🔗 E-Commerce Backend (Django + DRF)
-- Scalable architecture with role-based access
-- Elasticsearch integration for fast search
-- AWS S3 for media storage
-
-### 🤖 Trading Bot (FastAPI)
-- Real-time stock signals
-- Planned auto-trading system
-- Microservices-ready architecture
-
-### 🕵️ OSINT Username Tracker
-- Social + dark web lookup
-- Telegram bot integration
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ansh82196&theme=radical)
 
 - <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer;FastAPI+%7C+Django+Expert;Building+Scalable+Systems" />
@@ -42,6 +25,4 @@ Building scalable systems, breaking things, fixing them better 🚀
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: your-link
-- 🌐 Portfolio: your-site
-- 📧 Email: your-email
+- 📧 Email: ansh.dev721@gmail.com
